@@ -244,7 +244,7 @@ public class BuiltInLibraries {
 
             new BuiltInLibrary(ANDROIDX_CUSTOMVIEW_POOLINGCONTAINER, List.of(ANDROIDX_CORE_KTX, KOTLIN_STDLIB), "androidx.customview.poolingcontainer"),
 
-            new BuiltInLibrary(ANDROIDX_CUSTOMVIEW, List.of(ANDROIDX_ANNOTATION_JVM, ANDROIDX_COLLECTION_JVM, ANDROIDX_CORE), "androidx.customview"),
+            new BuiltInLibrary(ANDROIDX_CUSTOMVIEW, List.of(ANDROIDX_ANNOTATION_JVM, ANDROIDX_COLLECTION_JVM, ANDROIDX_CORE)),
 
             new BuiltInLibrary(ANDROIDX_DOCUMENTFILE, List.of(ANDROIDX_ANNOTATION_JVM)),
 
